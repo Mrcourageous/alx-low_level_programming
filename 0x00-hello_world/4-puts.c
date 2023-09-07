@@ -1,4 +1,4 @@
--puts.c
+
 #include <stdio.h>
 
 /**
@@ -6,7 +6,8 @@
  * 
  * Return:Always 0 (Success)
  */
-int main(){
-	put("\"Programming is like building a multilingual puzzle\n");
-	return(0);
-	}
+int main()
+{
+  puts("\"Programming is like building a multilingual puzzle\n");
+  return(0);
+}
