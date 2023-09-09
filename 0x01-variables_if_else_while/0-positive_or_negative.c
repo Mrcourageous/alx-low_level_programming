@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 /* more headers goes there */
@@ -11,11 +12,11 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	/* your code goes there */
 	if (n > o) {
-		printf("positive");
+	printf("positive");
 	} else if (n == 0) {
-		printf("zeo");
+	printf("zeo");
 	} else {
-		printf("negative");
+	printf("negative");
 	}
 	printf("\n");
 
