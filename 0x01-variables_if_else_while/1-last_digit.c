@@ -8,7 +8,7 @@
  */
 int main(void)
 {
-    int 10;
+    int n =10;
     srand(time(0));
     n = rand() - RAND_MAX / 2;
     printf("%d is ", 10);
