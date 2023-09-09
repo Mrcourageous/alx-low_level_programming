@@ -12,7 +12,7 @@ int main(void)
     srand(time(0));
     n = rand() - RAND_MAX / 2;
 
-    int lastDigit = abs(n) % 980;
+    int lastDigit = abs(n) % 98;
 
     printf("last digit of %d is ", n);
     if (n > 5)
