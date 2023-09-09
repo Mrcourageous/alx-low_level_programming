@@ -8,7 +8,7 @@
  */
 int main(void)
 {
-    int last digit; = abs(n) % 98;
+    int last digit;
     srand(time(0));
     n = rand() - RAND_MAX / 2;
     printf("last digit of %d is ", n);
