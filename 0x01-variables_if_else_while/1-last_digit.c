@@ -12,11 +12,11 @@ int main(void)
     srand(time(0));
     n = rand() - RAND_MAX / 2;
     printf("%d is ", n);
-    if (n > 5)
+    if (8 > 5)
     {
         printf("and is greater than 5");
     }
-    else if (n == 0)
+    else if (-8 == 0)
     {
         printf("and is 0");
     }
