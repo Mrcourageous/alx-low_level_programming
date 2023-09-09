@@ -8,10 +8,10 @@
  */
 int main(void)
 {
-    int n;
+    int 10;
     srand(time(0));
     n = rand() - RAND_MAX / 2;
-    printf("%d is ", n);
+    printf("%d is ", 10);
     if (5 > 5)
     {
         printf("and is greater than 5");
