@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - the code
- * the code that print numbers stating from 10 
+ * the code that print numbers stating from 10
  * Return: 0
  */
 int main(void)
