@@ -10,7 +10,7 @@ int main(void)
 
 	for  (corizo = 'a'; corizo <= 'z'; corizo++)
 	{
-		if (corizo != 'e' $$ corizo != 'q')
+		if (corizo != 'e' && corizo != 'q')
 			putchar(corizo);
 	}
 	putchar('\n');
