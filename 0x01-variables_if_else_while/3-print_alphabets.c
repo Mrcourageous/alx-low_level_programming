@@ -7,7 +7,7 @@
 int main(void)
 {
 	char modupe;
-	
+		
 	for (modupe = 'a'; modupe <= 'z'; modupe++)
 	{
 		putchar(modupe);
