@@ -14,7 +14,7 @@ int main(void)
 		if (vas < 57)
 		{
 			putchar(44);
-			putchar(45);
+			putchar(43);
 		}
 	}
 	putchar('\n');
