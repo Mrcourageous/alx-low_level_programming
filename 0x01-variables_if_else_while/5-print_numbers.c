@@ -8,7 +8,7 @@ int main(void)
 {
 	int zazu;
 
-	for (zuzu = 48; zazu <= 57; zazu++)
+	for (zazu = 48; zazu <= 57; zazu++)
 	{
 		putchar(zazu);
 	}
