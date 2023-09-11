@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
  * main - the code
- * the code that print all posiible combination of a single digit
+ * description: code that print all posiible combiation of a single digit
+ * readind: starting from 0, followed by a new line
  * Return: 0
  */
 int main(void)
