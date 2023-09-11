@@ -4,7 +4,7 @@
  * the code to print alphabets in lowlowercase using putchar
  * Return: Always 0 success
  */
-tnt main(void)
+int main(void)
 {
 	char modupe;
 
