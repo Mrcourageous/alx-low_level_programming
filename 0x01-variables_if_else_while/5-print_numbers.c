@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * the code
+ * main - the code
  * the code that print numbers startingg from'0'
  * Return: 0
  */
