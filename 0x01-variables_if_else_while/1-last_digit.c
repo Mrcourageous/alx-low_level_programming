@@ -8,12 +8,12 @@
  */
 int main(void)
 {
-	int n,y;
+	int n ,y;
 	
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	y = n % 10;
-	printf("last digit of %d is %d ", n,y);
+	printf("Last digit of %d is %d ", n,y);
 	if (y > 5)
 	{
 		printf("and is greater than 5");
