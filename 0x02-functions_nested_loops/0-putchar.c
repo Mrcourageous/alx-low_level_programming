@@ -1,12 +1,18 @@
-#include <stdio.h>
+#include "main.h"
 /**
- * Description: the code 
- * main - A program that print putchar follwed by a new line
- * Return: 0
+ * main - _putchar print a new line of lowercase alphabet
+ * Return: Always 0 success
  */
-int min(void)
-
+int main(void)
 {
-	putchar("_putchar\n");
-	return (0);
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
+_putchar('\n');
+return (0);
 }
