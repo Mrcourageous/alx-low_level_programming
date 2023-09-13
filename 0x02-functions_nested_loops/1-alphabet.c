@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - print_alphabet
+ * print_alphabet - Make the alphabet
  * Descriptino: Print the alphabets from a-z with anew line in lowercase
  * Return: Always 0
  */
